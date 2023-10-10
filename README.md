@@ -30,6 +30,3 @@ The project consists of the following components:
    - Predicting labels for the testing data.
    - Evaluating the model's performance using accuracy metrics.
    - Displaying training and validation accuracy.
- 
- #Note: Ensure you have the email dataset in CSV format and specify the correct file path in the code,while running this code of your pc.
-
